@@ -27,6 +27,7 @@
     "platforms": [
       "android",
       "ios"
-    ]
+    ],
+    "githubUrl": "https://github.com/oktalk/to-do-list-react-native.git"
   }
 }
